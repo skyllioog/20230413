@@ -15,3 +15,7 @@
 지도 - 자신의 위치 확인 가능
 
 **와이파이에 연결하고 실행해야 로그인, 회원가입 오류가 생기지 않음**
+
+ChatActivity,ChatDTO 수정
+Item_chat.xml 추가
+activity_chat.xml 수정
